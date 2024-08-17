@@ -1,6 +1,4 @@
-# 🎉 Face Recognition with Real-Time Detection and Database Integration
-
-## 🚀 Title
+## 🎉 Face Recognition with Real-Time Detection and Database Integration
 
 **Face Recognition with Real-Time Detection and Database Integration**: A project that uses OpenCV, face recognition, and SQLite to identify faces in real-time and log attendance details in a database.
 
